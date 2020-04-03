@@ -5,6 +5,8 @@ awvs script decode
 
 15行code解码 awvs “wvsc_blob.bin”文件扫描脚本
 
+![](example0.jpg)
+
 ## 使用方法
 将wvsc_blob.bin文件放到和脚本同一目录，执行脚本即可
 ```bash
